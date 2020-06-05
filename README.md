@@ -1,4 +1,5 @@
 # Awesome Frameworkless 
+# 无框架
 
 [![framework less](http://frameworklessmovement.org/img/frameworkless__badge-github.svg)](https://github.com/frameworkless-movement/manifesto)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -7,30 +8,42 @@
 
 
 A collection of awesome things regarding [Frameworkless](https://github.com/frameworkless-movement/manifesto)
+该项目的初衷
 
 ## Contents
+## 内容
 * [Decision Making](#decision-making)
+* [选择](#decision-making)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [PHP](#php)
 
+
 ## Decision Making
+## 选择
 
 ### Posts
+### 文章
 
 * [Framework Compass Chart](https://medium.com/@TheStrazz86/framework-compass-chart-d3851c25b45d) - A tool to choose a framework for your next project
+* [框架衡量表](https://medium.com/@TheStrazz86/framework-compass-chart-d3851c25b45d) - 为项目选择下一个框架的工具
 * [Make the Magic go away](https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html) - Thoughts of Uncle Bob about Frameworks
+* [去掉魔法](https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html) - cleancoder 作者：鲍勃大叔对于框架的看法
 * [No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019) - Thoughts of Matteo Vaccari about Frameworks
+* [无框架，第一部分](http://matteo.vaccari.name/blog/archives/1019) - Matteo Vaccari 对于框架的看法
 * [No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022) - Thoughts of Matteo Vaccari about Frameworks
+* [无框架，第二部分](http://matteo.vaccari.name/blog/archives/1022) - Matteo Vaccari 对于框架的看法
 
 ### Videos
-
+### 视频
 * [ViennaJS Semptermber 2018 - Framework Compass Chart](https://youtu.be/buFMbKRAUs8) - A tool to choose a framework for your next project
 
 
 ## Backend
+## 后端
 
 ### Examples
+### 案例
 
  * [8 lines of code](https://www.infoq.com/presentations/8-lines-code-refactoring/) - Greg Young: How to organize code so that we don't need most of the magic provided by frameworks: IoC containers or AoP and dynamic proxies
 
